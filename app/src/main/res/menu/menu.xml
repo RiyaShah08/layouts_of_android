@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/linear"
+        android:icon="@drawable/ic_baseline_blur_linear_24"
+        android:title="Linear"/>
+    <item
+        android:id="@+id/constraint"
+        android:icon="@drawable/ic_baseline_all_inclusive_24"
+        android:title="constraint"/>
+    <item
+        android:id="@+id/relative"
+        android:icon="@drawable/ic_baseline_adb_24"
+        android:title="Relative"/>
+</menu>
